@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mil1230
+- 👀 I’m interested in Cyber Threat Intelligence and defense against State and Non-State actors. 
+- 🌱 I’m currently learning CompTIA Sec+ and Linux Systems Administration.
+- 💞️ I’m looking to collaborate on Developing a new completely private and secure messagin platform that will stay out of the hands of major corporations.
+- 📫 reach me at mil.intelanalyst@gmail.com
